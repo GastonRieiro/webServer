@@ -5,8 +5,8 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node server.js", //npm start
-        "nodemon": "nodemon server.js", //npm run nodemon
+        "start": "node server.js",
+        "nodemon": "nodemon server.js",
         "_comment": "El comando start se ejecuta con 'npm start'. El comando nodemon se ejecuta con 'npm run nodemon'"
     },
     "author": "",
